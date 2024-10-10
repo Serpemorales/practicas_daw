@@ -135,5 +135,6 @@ Si no realizamos el link simbólico, no se dará de alta automáticamente nuestr
 
 Si no le damos los permisos adecuados, nos dará un error de acceso no autorizado cuando intentemos entrar en la página web. Básicamente, nuestra web no funcionará correctamente.
 
+---
 
 ![Firma Sergio](https://64.media.tumblr.com/7c467136230c4e326d5bfb375aa02d29/4874f8a27ecf45a6-a6/s400x600/ee10df7ed55ad47691eac83aeea825ad48437b3a.png)

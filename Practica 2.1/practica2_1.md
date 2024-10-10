@@ -1,4 +1,4 @@
-# Práctica 2,1 - Instalación y configuración de servidor web Nginx
+# Práctica 2.1 - Instalación y configuración de servidor web Nginx
 
 ## Instalación servidor web nginx
 

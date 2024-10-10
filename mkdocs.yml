@@ -1,0 +1,10 @@
+site_name: Web de Sergio
+site_url: https://serpemorales.github.io
+
+nav:
+  - Home: index.md
+  - Prácticas:
+      - Práctica 2.1: Practica%202.1/index.md
+
+theme:
+  name: material
